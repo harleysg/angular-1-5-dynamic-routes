@@ -1,0 +1,21 @@
+{
+    "viewName": "holis",
+    "tipo": "manager",
+    "data": [
+        {"id": "0", "author": "Alejandro Escamilla", "url": "https://unsplash.com/photos/yC-Yzbqy7PY"},
+        {"id": "1", "author": "Alejandro Escamilla", "url": "https://unsplash.com/photos/LNRyGwIJr5c"},
+        {"id": "10", "author": "Paul Jarvis", "url": "https://unsplash.com/photos/6J--NXulQCs"},
+        {"id": "100", "author": "Tina Rataj", "url": "https://unsplash.com/photos/pwaaqfoMibI"},
+        {"id": "1000", "author": "Lukas Budimaier", "url": "https://unsplash.com/photos/6cY-FvMlmkQ"},
+        {"id": "1001", "author": "Danielle MacInnes", "url": "https://unsplash.com/photos/1DkWWN1dr-s"},
+        {"id": "1002", "author": "NASA", "url": "https://unsplash.com/photos/6-jTZysYY_U"},
+        {"id": "1003", "author": "E+N Photographies", "url": "https://unsplash.com/photos/GYumuBnTqKc"},
+        {"id": "1004", "author": "Greg Rakozy", "url": "https://unsplash.com/photos/SSxIGsySh8o"},
+        {"id": "1005", "author": "Matthew Wiebe", "url": "https://unsplash.com/photos/tBtuxtLvAZs"},
+        {"id": "1006", "author": "Vladimir Kudinov", "url": "https://unsplash.com/photos/-wWRHIUklxM"},
+        {"id": "1008", "author": "Benjamin Combs", "url": "https://unsplash.com/photos/5L4XAgMSno0"},
+        {"id": "1009", "author": "Christopher Campbell", "url": "https://unsplash.com/photos/CMWRIzyMKZk"},
+        {"id": "101", "author": "Christian Bardenhorst", "url": "https://unsplash.com/photos/8lMhzUjD1Wk"},
+        {"id": "1010", "author": "Samantha Sophia", "url": "https://unsplash.com/photos/NaWKMlp3tVs"}
+    ]
+}

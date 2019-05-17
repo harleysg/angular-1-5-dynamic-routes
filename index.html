@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html ng-app="myapp">
+  <head>
+    <title>AngularJS: UI-Router Quick Start</title>
+    <!-- Bootstrap CSS -->
+    <link href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/css/bootstrap.min.css" rel="stylesheet" />
+  </head>
+
+  <body class="container">
+    <div class="navbar">
+      <div class="navbar-inner">
+        <a class="brand" ui-sref="index">Quick Start</a>
+        <ul class="nav">
+          <li> <a ui-sref="index">Home</a> </li>
+          <li> <a ui-sref="dynamic({id: 1})">dynamic</a> </li>
+        </ul>
+      </div>
+    </div>
+    <div class="row">
+      <div class="span6 center">
+        <div class="well" ui-view>loading...</div>
+      </div>
+    </div>
+    <!-- Angular -->
+    <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.5.5/angular.min.js"></script>
+    <!-- UI-Router -->
+    <script src="https://unpkg.com/@uirouter/angularjs@1.0.22/release/angular-ui-router.min.js"></script>
+    <!-- App Script -->
+    <script src="main.js"></script>
+  </body>
+
+</html>
